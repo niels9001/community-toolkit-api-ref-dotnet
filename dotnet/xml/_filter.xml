@@ -61,6 +61,29 @@
         <namespaceFilter name="Microsoft.Toolkit.Uwp.UI.Controls.Microsoft_Toolkit_Uwp_UI_Controls_Media_XamlTypeInfo">
             <typeFilter name="*" expose="false" />
         </namespaceFilter>
+                <namespaceFilter name="CommunityToolkit.WinUI.DeveloperTools.CommunityToolkit_WinUI_DeveloperTools_XamlTypeInfo">
+            <typeFilter name="*" expose="false" />
+        </namespaceFilter>
+              <namespaceFilter name="CommunityToolkit.WinUI.UI.Controls.CommunityToolkit_WinUI_UI_Controls_DataGrid_XamlTypeInfo">
+            <typeFilter name="*" expose="false" />
+        </namespaceFilter>
+                 <namespaceFilter name="CommunityToolkit.WinUI.UI.Controls.CommunityToolkit_WinUI_UI_Controls_Layout_XamlTypeInfo">
+            <typeFilter name="*" expose="false" />
+        </namespaceFilter>
+                     <namespaceFilter name="CommunityToolkit.WinUI.UI.Controls.CommunityToolkit_WinUI_UI_Controls_Markdown_XamlTypeInfo">
+            <typeFilter name="*" expose="false" />
+        </namespaceFilter>
+                    <namespaceFilter name="CommunityToolkit.WinUI.UI.Controls.Core.CommunityToolkit_WinUI_UI_Controls_Core_XamlTypeInfo">
+            <typeFilter name="*" expose="false" />
+        </namespaceFilter>
+                   <namespaceFilter name="CommunityToolkit.WinUI.UI.Controls.Input.CommunityToolkit_WinUI_UI_Controls_Input_XamlTypeInfo">
+            <typeFilter name="*" expose="false" />
+        </namespaceFilter>
+                     <namespaceFilter name="CommunityToolkit.WinUI.UI.Controls.Media.CommunityToolkit_WinUI_UI_Controls_Media_XamlTypeInfo">
+            <typeFilter name="*" expose="false" />
+        </namespaceFilter>
+        
+   
     </apiFilter>
     <attributeFilter apply="true">
         <!-- Most attributes in System.ComponentModel control designer behavior. Don't show them. -->
